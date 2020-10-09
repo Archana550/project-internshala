@@ -1,6 +1,15 @@
-#right{
+
+.right{
     float:right;
 }
-#left{
+.left{
     float:left;
+}
+#image{
+    float:left;
+    padding 50px 0px 0px 0px;
+   
+}
+#identity{
+    overflow:auto;
 }
